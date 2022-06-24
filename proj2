@@ -1,0 +1,24 @@
+anchor project
+
+
+
+<html>
+<head>
+    <title>
+        New anchor tag
+    </title>
+</head>
+<body>
+    <h1>
+        List of web site
+    </h1>
+    <div>
+        <a href="./meta_practice.html" >please click here to get more information meta practice</a>
+    </div>
+    <div><a href="./juiceshopt.html"> please click here to get more details about juice shop </a></div>
+    <div><a href="./4entity.html">please click here to get more information entity</a></div>
+    <div><a href="./row_spaaaan.html">please click here to get the more information about</a></div>
+    <div><a target="_blank" href="https://www.amazon.in/">Amazon link</a></div>
+    <div><a href="mailto:nagwanshikunal23@gmail.com">Mail to</a></div>
+</body>
+</html>
