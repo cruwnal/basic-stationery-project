@@ -22,3 +22,37 @@ anchor project
     <div><a href="mailto:nagwanshikunal23@gmail.com">Mail to</a></div>
 </body>
 </html>
+
+
+#final editz
+
+<html>
+<head>
+    <title>
+        New anchor tag
+    </title>
+</head>
+<body>
+    <h1>
+        List of web site
+    </h1>
+    <div>
+        <a href="./meta_practice.html" >please click here to get more information meta practice</a>
+    </div>
+    <div><a href="./juiceshopt.html"> please click here to get more details about juice shop </a></div>
+    <div><a href="./4entity.html">please click here to get more information entity</a></div>
+    <div><a href="./row_spaaaan.html">please click here to get the more information about</a></div>
+    <div><a target="_blank" href="https://www.amazon.in/">Amazon link</a></div>
+    <div><a href="mailto:nagwanshikunal23@gmail.com">Mail to</a></div>
+    
+    <div><a href="#Heading">Heading</a></div>
+    <div><a href="#Description">Description</a></div>
+    <p id="Heading">
+        Unit 731 (Japanese: 731部隊, Hepburn: Nana-san-ichi Butai),[note 1] short for Manshu Detachment 731 and also known as the Kamo Detachment[3]: 198  and Ishii Unit,[5] was a covert biological and chemical warfare research and development unit of the Imperial Japanese Army that engaged in lethal human experimentation and biological weapons manufacturing during the Second Sino-Japanese War (1937–1945) and World War II. Unit 731 was based in the Pingfang district of Harbin, the largest city in the Japanese puppet state of Manchukuo (now Northeast China), and had active branch offices throughout China and Southeast Asia. It was responsible for some of the most notorious war crimes committed by the Japanese armed forces. Unit 731 routinely conducted tests on human beings who were dehumanized and internally referred to as "logs". Experiments included disease injections, controlled dehydration, hypobaric chamber experiments, biological weapons testing, vivisection, amputation, and weapons testing. Victims included babies, children, and pregnant mothers. Victims were from different nationalities, but the majority of them were Chinese. Additionally, Unit 731 produced biological weapons that were used in areas of China not occupied by Japanese forces, which included Chinese cities and towns, water sources, and fields. Estimates of those killed by Unit 731 and its related programs range up to half a million people.
+    </p>
+    <p id="Description">
+        It was officially known as the Epidemic Prevention and Water Purification Department of the Kwantung Army (関東軍防疫給水部本部, Kantōgun Bōeki Kyūsuibu Honbu). Originally set up by the Kenpeitai military police of the Empire of Japan, Unit 731 was taken over and commanded until the end of the war by General Shirō Ishii, a combat medic officer in the Kwantung Army. The facility itself was built in 1935 as a replacement for the Zhongma Fortress, and Ishii and his team used it to expand their capabilities. The program received generous support from the Japanese government until the end of the war in 1945. Unit 731 and the other units of the Epidemic Prevention and Water Purification Department operated biological weapon production, testing, deployment, and storage facilities.
+        While Unit 731 researchers arrested by Soviet forces were tried at the December 1949 Khabarovsk war crime trials, those captured by the United States were secretly given immunity in exchange for the data gathered during their human experiments.[6] The United States covered up the human experimentations and handed stipends to the perpetrators on trial.[1] The Americans coopted the researchers' bioweapons information and experience for use in their own biological warfare program, much as they had done with German researchers in Operation Paperclip.[7][8]
+    </p>
+</body>
+</html>
