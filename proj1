@@ -1,0 +1,35 @@
+<head>
+    <title>Meta practice</title>
+    <meta name="Keyword" contemt="Stationary,Drawing matewrial,Xerox">
+    <meta name="Keyword" content="In very affordable prize,discounted prize,40% off">
+    <meta name="Author" content="Kunal nagwanshi">
+    <meta name="viewport" content="device=device-width,intial-scale=1">
+    <meta charcter="utf-8">
+</head>
+<body>
+    <h1 style="color:rgb(177, 99, 9)" align="center" title="Hey thats my shop name">kunal nagwanshi stationary shop</h1>
+    <p style="color:blue" align="center" title="Thank you for comming in my shop" >Hey everyone we have varity of stuff</p>
+    <table cellpadding="20"cellspacing="20" bgcolor="yellow" border="20"align="center">
+        <thead>
+            <tr>
+                <th>
+                    material
+                </th>
+                <th>
+                    price
+                </th>
+            </tr>
+            <tr>
+                <td>books</td>
+                <td>500</td>
+            </tr>
+            <tr>
+                <td>photocopy</td>
+                <td>10 &#8377</td>
+            </tr>
+            <td>pencil</td>
+            <td>5 &8377 </td>
+
+        </thead>
+    </table>
+</body>
